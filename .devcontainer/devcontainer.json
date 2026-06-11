@@ -1,0 +1,5 @@
+{
+  "name": "D3 Case Study 2",
+  "image": "mcr.microsoft.com/devcontainers/python:3.13",
+  "postCreateCommand": "pip install -r requirements.txt"
+}
